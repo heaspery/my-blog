@@ -9,7 +9,7 @@ menu:
 ---
 
 
-Je construis ce blog autour d’un domaine qui me motive réellement : la conception et le développement de produits numériques orientés vers la transmission de connaissances.
+Je construis ce blog autour d’un domaine qui me motive réellement : la conception et le développement de produits digitaux orientés vers la transmission de connaissances.
 
 Ce domaine est directement lié à mon ikigai, c’est-à-dire l’endroit où se rencontrent :
 
@@ -22,7 +22,7 @@ Au centre de tout cela, je place l’idée suivante : créer des produits numér
 
 ## Mon ikigai
 
-![Ikigai](/images/ikigai.png)
+![Ikigai](/images/ikigai2.png)
 
 ## Mon domaine de veille : pourquoi celui-ci ?
 
