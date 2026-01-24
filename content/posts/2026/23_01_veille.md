@@ -46,7 +46,7 @@ Mon objectif est donc d’adopter une posture de “designer/développeuse criti
 
 Pour l’écoute active, j’ai choisi de combiner plusieurs canaux afin de ne pas dépendre d’une seule plateforme ou d’un algorithme. L’objectif est d’avoir une veille régulière, variée, mais orientée vers mon domaine.
 
-J’ai développé mon propre dashboard d’agrégation d’informations, basé sur [Glance](https://github.com/glanceapp/glance), un dashboard personalisable Open-Source. Vous pouvez consulter ma configuration de l'outil sur [ce dépôt public](https://github.com/heaspery/my-glance) Il me sert de page d’accueil de veille : je peux y consulter rapidement l’actualité de mon domaine sans devoir ouvrir de nombreuses plateformes.
+J’ai développé mon propre dashboard d’agrégation d’informations, basé sur [Glance](https://github.com/glanceapp/glance), un dashboard personalisable Open-Source. Vous pouvez consulter ma configuration de l'outil sur [ce dépôt public](https://github.com/heaspery/my-glance) Il me sert de page d’accueil de veille : je peux y consulter rapidement l’actualité de mon domaine sans devoir ouvrir de nombreuses plateformes. J'ai fait ce choix car je ne suis pas sur les plateformes de réseaux sociaux classiques (Instagram, Facebook, TikTok). Il est important que je prépare ma propre source d'informations fiables. 
 
 Glance me permet de :
 - centraliser les sources,

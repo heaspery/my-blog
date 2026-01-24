@@ -53,7 +53,7 @@ J’en retiens surtout deux idées importantes :
 Rendre une exposition accessible n’est pas un “bonus technique”, c’est un accès concret au contenu culturel et scientifique.
 
 2) Le produit digital peut être un service, pas seulement un contenu. 
-Aira n’ajoute pas simplement des informations : elle offre une expérience de visite transformée, personnalisée et interactive, en temps réel, ce qui rejoint les logiques de produit (expérience, usage, besoin).
+Aira n’ajoute pas simplement des informations : elle offre une expérience de visite transformée, personnalisée et interactive, en temps réel.
 
 
 ## Pourquoi l’avoir sélectionné ?
